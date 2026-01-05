@@ -2,7 +2,7 @@
 
 A comparative evaluation of content-based and collaborative filtering approaches for personalized product recommendations in grocery retail.
 
-## 📊 Project Overview
+## Project Overview
 
 This project implements and compares three recommendation system approaches for retail grocery data: **Content-Based Filtering**, **User-User Collaborative Filtering**, and **Item-Item Collaborative Filtering**. Using transaction data from 2,494 households across 43,434 products over 26 weeks, the analysis evaluates accuracy, efficiency, and diversity metrics.
 
