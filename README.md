@@ -137,5 +137,5 @@ This project implements and compares three recommendation system approaches for 
 
 ## Additional Resources
 - [Notebook](https://github.com/thant-thiha/recommendation-system-retail-store/blob/main/Recommendation_System_Ecommerce_Notebook.ipynb)
-- [Report](https://github.com/thant-thiha/recommendation-system-retail-store/blob/main/Recommendation_System_Ecommerce_Report.docx)
+- [Report](https://github.com/thant-thiha/recommendation-system-retail-store/blob/main/Recommendation_System_Ecommerce_Report.pdf)
 
